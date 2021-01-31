@@ -595,8 +595,7 @@ textarea.modal-form-message {
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.social-list-link:hover,
-.social-list-link :focus {
+.social-list-link:hover, .social-list-link:focus {
   background-color: var(--acent-color);
 }
 
@@ -707,8 +706,7 @@ textarea.modal-form-message {
   margin-right: 30px;
 }
 
-.clients-list-item:hover,
-.clients-list-item :focus {
+.clients-list-item:hover, .clients-list-item:focus {
   border-color: var(--acent-color);
 }
 
@@ -755,8 +753,7 @@ textarea.modal-form-message {
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.join-us-list-link:hover,
-.join-us-list-link :focus {
+.join-us-list-link:hover, .join-us-list-link:focus {
   background-color: var(--acent-color);
 }
 
